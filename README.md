@@ -1,7 +1,7 @@
 # PyQt-
-Displays OS Information
+Displays OS Information.
 The group members of the microproject are:
-Ailin Maria Lopez
-Aishwarya Menon
-Aishwarya Teresa Anthony
-Aishwarya Poosari
+ Ailin Maria Lopez,
+ Aishwarya Menon,
+ Aishwarya Teresa Anthony,
+ Aishwarya Poosari
