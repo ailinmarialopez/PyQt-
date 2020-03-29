@@ -1,0 +1,2 @@
+# PyQt-
+Displays OS Information
